@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Estedad-VF";
+    src: url("https://aminabedi68.github.io/Estedad/Estedad[KSHD,wght].woff2")
+  }
+  div{
+  font-family: 'Estedad-VF' !important;
+  }
+  div[class*='form-container'] {
+      background-size: 4px !important;
+      background-repeat: repeat !important;
+  }
+  .muirtl-nq1heb{
+      background-image: url(https://s3.amazonaws.com/formaloo-en/s/2024/8/25/YTs1PsSe0201ca5f-f527-44f9-bad8-50f8d05cdb60.png);
+      background-size: 6px;
+      border-radius: 16px;
+      border: 3px solid #51a7bb;
+      min-height: calc(100vh - 280px);
+  }
+  label.MuiFormControlLabel-root {
+      padding: 1rem;
+      background-color: rgba(255, 255, 255, .75);
+  }
+  
+  label.MuiFormControlLabel-root span {
+      font-size: 1.25rem;
+  }
+  span.MuiButtonBase-root {
+      display: none;
+  }
+  span.MuiTypography-root.MuiTypography-strong\/200 {
+      font-weight: bold !important;
+      font-size: 1.5rem !important;
+      margin-bottom: 2rem !important;
+      display: block;
+  }
+  .muirtl-1c0cfyw{
+  background-image: url(https://s3.amazonaws.com/formaloo-en/s/2024/8/27/CkVkCpzM4a5bf6db-0601-4134-8730-7e4d0569783b.png);
+      background-size: cover;
+      height: 190px;
+  }
+  .MuiContainer-root.MuiContainer-maxWidthMd.muirtl-1c0cfyw > img {
+      display: none;
+  }
+  .MuiBox-root.muirtl-18jqfyr > img {
+      display: none;
+  }

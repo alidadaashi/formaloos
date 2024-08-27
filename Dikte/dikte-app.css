@@ -1,0 +1,24 @@
+body{
+    direction: rtl;
+    }
+    @font-face {
+      font-family: "Estedad-VF";
+      src: url("https://aminabedi68.github.io/Estedad/Estedad[KSHD,wght].woff2")
+    }
+    div, p, h1, h2, h3, h4, h5, h6, span, a {
+    font-family: 'Estedad-VF' !important;
+    }
+    .formaloo__app-container {}
+    .formaloo__app-title {}
+    .formaloo__app-logo {}
+    .formaloo__app-header {}
+    .formaloo__app-sidebar-left {}
+    .formaloo__app-menu {}
+    .formaloo__app-menu-items {}
+    .formaloo__app-page {}
+    .formaloo__app-block-container {}
+    .formaloo__app-block-chart {}
+    .formaloo__app-block-table {}
+    .formaloo__app-block-ai {}
+    .formaloo__app-block-kanban {}
+    .formaloo__app-block-form {}
